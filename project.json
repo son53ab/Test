@@ -8,7 +8,7 @@
       "chipFamily": "ESP32",
       "parts": [
         {
-          "path": "https://raw.githubusercontent.com/son53ab/Test/main/Test_AutoOTA.ino.bin",
+          "path": "son53ab/Test/main/Test_AutoOTA.ino.bin",
           "offset": 0
         }
       ]

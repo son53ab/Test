@@ -2,7 +2,7 @@
   "name": "test",
   "about": "Краткое описание проекта",
   "version": "1.3",
-  "notes": "проба",
+  "notes": "github",
   "builds": [
     {
       "chipFamily": "ESP32",
